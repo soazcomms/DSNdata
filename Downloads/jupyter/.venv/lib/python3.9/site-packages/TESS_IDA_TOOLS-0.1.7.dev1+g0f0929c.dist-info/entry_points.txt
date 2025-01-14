@@ -1,0 +1,5 @@
+[console_scripts]
+tess-ida-db = tess.ida.dbase.schema:main
+tess-ida-ecsv = tess.ida.timeseries:main
+tess-ida-get = tess.ida.download:main
+tess-ida-pipe = tess.ida.pipeline:main
